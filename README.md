@@ -1,4 +1,4 @@
 # first-repo
 Author - Harsha Vardhan
 <br>
-First repository
+First repository (harsha)
